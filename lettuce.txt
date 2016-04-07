@@ -1,0 +1,6 @@
+diff --git a/banana.txt b/banana.txt
+index e69de29..4db914f 100644
+--- a/banana.txt
++++ b/banana.txt
+@@ -0,0 +1 @@
++Git Checkpoint Assignment.
